@@ -24,12 +24,11 @@ Este proyecto nace de la necesidad de centralizar y analizar gastos personales s
 
 Así es como se vería la interfaz del menú en la consola:
 
->  ![Captura de pantalla del menú principal](.img/menu.png)
-
+> <img width="335" height="164" alt="menu" src="https://github.com/user-attachments/assets/1536de48-85ba-4ba2-bea4-93656c64388c" />
 
 Cuando ejecutas el reporte de gastos, el sistema procesa los datos de SQL y genera visualizaciones como esta:
 
->  ![Captura de pantalla del grafico de gastos](.img/grafico_gastos.png)
+> <img width="1585" height="1332" alt="grafico_gastos" src="https://github.com/user-attachments/assets/05090837-8659-4dce-b62c-aac1848a78c8" />
 
 ## 🏗️ Arquitectura Técnica
 Para este proyecto apliqué conceptos profesionales de ingeniería de software:
